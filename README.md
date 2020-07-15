@@ -8,13 +8,13 @@ I have good understanding of: 🎯
 ### Programing Languages
 
 <p float="left">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" >
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" >
     <img src="https://gifimage.net/wp-content/uploads/2017/10/c-gif-7.gif"  height="90" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" >
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" >
     <img src="https://2.bp.blogspot.com/-z3HC6lmULWs/VY04-cq47kI/AAAAAAAAAwQ/WH7RVNF_ZcA/s1600/f0ff536eb8244be3a825803e6f04f499.gif"  height="90" />
   </a>
-  <a href="https://go.java/?intcmp=gojava-banner-java-com" target="_blank" >
+  <a href="https://go.java/?intcmp=gojava-banner-java-com" >
     <img src="https://www.logigroup.ma/images/modules/technologies/dev/developpement_java_maroc.gif"  height="70" />
   </a>
  </p>
@@ -22,22 +22,22 @@ I have good understanding of: 🎯
   ### Web Technologies
   
   <p float="left" >
-      <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
+      <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" >
         <img src="/images/hcj.png" height="70" />
       </a>
-    <a href="https://getbootstrap.com/" target="_blank" >
+    <a href="https://getbootstrap.com/" >
       <img src="/images/bootstrap.png"  height="70" />
     </a>
-    <a href="https://reactjs.org/" target="_blank" >
+    <a href="https://reactjs.org/" >
       <img src="/images/react.gif"  height="92"  />
     </a>
-    <a href="https://www.mongodb.com/" target="_blank" >
+    <a href="https://www.mongodb.com/" >
       <img src="/images/mongo.gif"  height="70"  />
     </a>
-    <a href="https://nodejs.org/en/" target="_blank" >
+    <a href="https://nodejs.org/en/" >
       <img src="/images/node.webp"  height="70"  />
     </a>
-    <a href="http://www.passportjs.org/" target="_blank" >
+    <a href="http://www.passportjs.org/" >
       <img src="https://miro.medium.com/max/400/1*YI1tt4kGzvea-v4dAhZ90w.png"  height="70"  />
     </a>
   </p>
