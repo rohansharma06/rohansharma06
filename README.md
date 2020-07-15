@@ -23,19 +23,19 @@ I have good understanding of: 🎯
   
   <p float="left" >
       <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" >
-        <img src="/images/hcj.png" height="70" />
+        <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/hcj.png?raw=true" height="70" />
       </a>
     <a href="https://getbootstrap.com/" >
-      <img src="/images/bootstrap.png"  height="70" />
+      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/bootstrap.png?raw=true"  height="70" />
     </a>
     <a href="https://reactjs.org/" >
-      <img src="/images/react.gif"  height="92"  />
+      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/react.gif?raw=true"  height="92"  />
     </a>
     <a href="https://www.mongodb.com/" >
-      <img src="/images/mongo.gif"  height="70"  />
+      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/mongo.gif?raw=true"  height="70"  />
     </a>
     <a href="https://nodejs.org/en/" >
-      <img src="/images/node.webp"  height="70"  />
+      <img src="https://raw.githubusercontent.com/rohansharma06/rohansharma06/master/images/node.webp"  height="70"  />
     </a>
     <a href="http://www.passportjs.org/" >
       <img src="https://miro.medium.com/max/400/1*YI1tt4kGzvea-v4dAhZ90w.png"  height="70"  />
