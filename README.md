@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I am [Rohan](https://rohansharma06.github.io/rohanportfolio/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;. I ❤️ programing 👨‍💻 and createing awesome Web Application.
+I am [Rohan](https://rohansharma06.github.io/rohanportfolio/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;. I ❤️ programing 👨‍💻 and creating awesome Web Application.
 
 
 I have good understanding of: 🎯
@@ -36,6 +36,9 @@ I have good understanding of: 🎯
     </a>
     <a href="https://nodejs.org/en/" target="_blank" >
       <img src="/images/node.webp"  height="70"  />
+    </a>
+    <a href="http://www.passportjs.org/" target="_blank" >
+      <img src="https://miro.medium.com/max/400/1*YI1tt4kGzvea-v4dAhZ90w.png"  height="70"  />
     </a>
   </p>
 
