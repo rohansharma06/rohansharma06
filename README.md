@@ -21,10 +21,29 @@ I have good understanding of: 📊
   </a>
  </p>
   
- 
+  ### Web Technologies
+  
+  <p float="left>
+      <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
+        <img src="/images/hcj.png" height="70" />
+      </a>
+    <a href="https://getbootstrap.com/" target="_blank" >
+      <img src="/images/bootstrap.png"  height="70" />
+    </a>
+    <a href="https://reactjs.org/" target="_blank" >
+      <img src="/images/react.gif"  height="92"  />
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" >
+      <img src="/images/mongo.gif"  height="70"  />
+    </a>
+    <a href="https://nodejs.org/en/" target="_blank" >
+      <img src="/images/node.webp"  height="70"  />
+    </a>
+  </p>
 
 
-
+  
+  
 ### 📫 How to reach me? 
 
   ⦿ Visit my [Website](https://rohansharma06.github.io/rohanportfolio/) 🌐 <br>
