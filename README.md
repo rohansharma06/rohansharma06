@@ -1,11 +1,9 @@
 ### Hi there 👋 
 
-I am [Rohan](https://rohansharma06.github.io/rohanportfolio/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;.🎯
-
-I ❤️ programing 👨‍💻 and createing awesome Web Application.
+I am [Rohan](https://rohansharma06.github.io/rohanportfolio/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;. I ❤️ programing 👨‍💻 and createing awesome Web Application.
 
 
-I have good understanding of: 📊
+I have good understanding of: 🎯
 
 ### Programing Languages
 
@@ -23,7 +21,7 @@ I have good understanding of: 📊
   
   ### Web Technologies
   
-  <p float="left>
+  <p float="left" >
       <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
         <img src="/images/hcj.png" height="70" />
       </a>
