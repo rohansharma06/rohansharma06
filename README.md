@@ -1,7 +1,6 @@
-### Hi there 👋 
+### Hi there !\_&nbsp; 👋
 
 I am [Rohan](https://rohansharma06.github.io/rohanportfolio/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;. I ❤️ programing 👨‍💻 and creating awesome Web Application.
-
 
 I have good understanding of: 🎯
 
@@ -42,16 +41,15 @@ I have good understanding of: 🎯
     </a>
   </p>
 
+</br>
 
-  
-  
-### 📫 How to reach me? 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rohansharma06&show_icons=true&hide_border=true)
 
-  ⦿ Visit my [Website](https://rohansharma06.github.io/rohanportfolio/) 🌐 <br>
-  ⦿ Follow me on [CodeChef](https://www.codechef.com/users/sharma_rohan)👨🏻‍💻 <br>
-  ⦿ Follow me on [LeetCode](https://leetcode.com/sharma_rohan/)👨🏻‍💻 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/rohan-sharmaa/) 🌐 <br>
-  ⦿ Shoot Me an [Email](mailto:rohansharma251998@gmail.com) 💌 <br>
+</br>
+### 📫 How to reach me?
 
-
-
+⦿ Visit my [Website](https://rohansharma06.github.io/rohanportfolio/) 🌐 <br>
+⦿ Follow me on [CodeChef](https://www.codechef.com/users/sharma_rohan)👨🏻‍💻 <br>
+⦿ Follow me on [LeetCode](https://leetcode.com/sharma_rohan/)👨🏻‍💻 <br>
+⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/rohan-sharmaa/) 🌐 <br>
+⦿ Shoot Me an [Email](mailto:rohansharma251998@gmail.com) 💌 <br>
