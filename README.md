@@ -79,7 +79,7 @@ I have **good** understanding of: 🎯
     align="left"
     alt="Rohan Sharma | Codechef"
     width="26px"
-    src="https://www.nicepng.com/png/full/792-7920230_logo-rgb-mustach-codechef-png.png"
+    src="https://janasabuj.github.io/cp-timeline-sabuj-jana/assets/img/cc.png"
   />
 </a>
 
