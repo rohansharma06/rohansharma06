@@ -2,7 +2,7 @@
 
 I am [Rohan](https://rohansharma06.github.io/rohanportfolio/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;. I ❤️ programing 👨‍💻 and creating awesome Web Application.
 
-I have good understanding of: 🎯
+I have **good** understanding of: 🎯
 
 ### Programing Languages
 
@@ -45,12 +45,36 @@ I have good understanding of: 🎯
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rohansharma06&show_icons=true&hide_border=true)
 
-</br>
-
 ### 📫 How to reach me?
 
-⦿ Visit my [Website](https://rohansharma06.github.io/rohanportfolio/) 🌐 <br>
+<!-- ⦿ Visit my [Website](https://rohansharma06.github.io/rohanportfolio/) 🌐 <br>
 ⦿ Follow me on [CodeChef](https://www.codechef.com/users/sharma_rohan)👨🏻‍💻 <br>
 ⦿ Follow me on [LeetCode](https://leetcode.com/sharma_rohan/)👨🏻‍💻 <br>
 ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/rohan-sharmaa/) 🌐 <br>
-⦿ Shoot Me an [Email](mailto:rohansharma251998@gmail.com) 💌 <br>
+⦿ Shoot Me an [Email](mailto:rohansharma251998@gmail.com) 💌 <br> -->
+<a href="https://www.linkedin.com/in/rohan-sharmaa/">
+  <img
+    align="left"
+    alt="Rohan Sharma | Linkedin"
+    width="24px"
+    src=""
+  />
+</a>
+
+<a href="mailto:rohansharma251998@gmail.com">
+  <img
+    align="left"
+    alt="Rohan Sharma | Gmail"
+    width="26px"
+    src=""
+  />
+</a>
+
+<a href="https://www.codechef.com/users/sharma_rohan">
+  <img
+    align="left"
+    alt="Rohan Sharma | Codechef"
+    width="26px"
+    src="https://external-preview.redd.it/H4cRWPgR05SfSc1VMh7vhGehTTtRwz4hEyjfcHl7XYo.jpg?auto=webp&s=c31606fac5005199dfa648e7adc4a64044b397d4"
+  />
+</a>
