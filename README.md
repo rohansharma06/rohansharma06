@@ -70,11 +70,29 @@ I have **good** understanding of: 🎯
   />
 </a>
 
+<a href="https://rohansharma06.github.io/rohanportfolio/">
+  <img
+    align="left"
+    alt="Rohan Sharma | Portfolio"
+    width="26px"
+    src="https://img.pngio.com/globe-internet-browser-web-website-global-svg-png-icon-free-web-browser-icon-png-980_980.png"
+  />
+</a>
+
 <a href="https://www.codechef.com/users/sharma_rohan">
   <img
     align="left"
     alt="Rohan Sharma | Codechef"
     width="26px"
-    src="https://external-preview.redd.it/H4cRWPgR05SfSc1VMh7vhGehTTtRwz4hEyjfcHl7XYo.jpg?auto=webp&s=c31606fac5005199dfa648e7adc4a64044b397d4"
+    src=https://www.nicepng.com/png/full/792-7920230_logo-rgb-mustach-codechef-png.png"
+  />
+</a>
+
+<a href="https://leetcode.com/sharma_rohan/">
+  <img
+    align="left"
+    alt="Rohan Sharma | Leetcode"
+    width="26px"
+    src="https://repository-images.githubusercontent.com/135522239/b61abe80-7bd4-11e9-8db4-03c18a436041"
   />
 </a>
