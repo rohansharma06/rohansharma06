@@ -47,11 +47,6 @@ I have **good** understanding of: 🎯
 
 ### 📫 How to reach me?
 
-<!-- ⦿ Visit my [Website](https://rohansharma06.github.io/rohanportfolio/) 🌐 <br>
-⦿ Follow me on [CodeChef](https://www.codechef.com/users/sharma_rohan)👨🏻‍💻 <br>
-⦿ Follow me on [LeetCode](https://leetcode.com/sharma_rohan/)👨🏻‍💻 <br>
-⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/rohan-sharmaa/) 🌐 <br>
-⦿ Shoot Me an [Email](mailto:rohansharma251998@gmail.com) 💌 <br> -->
 <a href="https://www.linkedin.com/in/rohan-sharmaa/">
   <img
     align="left"
@@ -84,7 +79,7 @@ I have **good** understanding of: 🎯
     align="left"
     alt="Rohan Sharma | Codechef"
     width="26px"
-    src=https://www.nicepng.com/png/full/792-7920230_logo-rgb-mustach-codechef-png.png"
+    src="https://www.nicepng.com/png/full/792-7920230_logo-rgb-mustach-codechef-png.png"
   />
 </a>
 
