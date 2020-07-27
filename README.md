@@ -57,7 +57,7 @@ I have **good** understanding of: 🎯
     align="left"
     alt="Rohan Sharma | Linkedin"
     width="24px"
-    src=""
+    src="https://github.com/rohansharma06/rohansharma06/blob/master/images/Linkedin.svg"
   />
 </a>
 
@@ -66,7 +66,7 @@ I have **good** understanding of: 🎯
     align="left"
     alt="Rohan Sharma | Gmail"
     width="26px"
-    src=""
+    src="https://github.com/rohansharma06/rohansharma06/blob/master/images/Gmail.svg"
   />
 </a>
 
