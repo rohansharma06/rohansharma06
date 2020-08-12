@@ -3,8 +3,7 @@
 <!-- 👋 -->
 
 > I am [Rohan Sharma](https://rohansharma06.github.io/rohanportfolio/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;. <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/rocket.png" width="20px"> 
-<br/>
-> I ❤️ **programing** 👨‍💻 and building awesome things for the **web**. <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/web.png" width="20px">
+> I ❤️ **programing** 👨‍💻 and building awesome things for the **web** &nbsp;. <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/web.png" width="20px">
 
 <!-- > I ❤️ programing 👨‍💻 and creating awesome Web Application. -->
 
