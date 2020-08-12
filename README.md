@@ -1,6 +1,7 @@
 ### \_Hi there ! &nbsp; 👋
 
 > I am [Rohan Sharma](https://rohansharma06.github.io/rohanportfolio/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;.
+> <br/>
 > I ❤️ programing and building awesome things for the web.
 
 <!-- > I ❤️ programing 👨‍💻 and creating awesome Web Application. -->
@@ -25,22 +26,22 @@ I have **good** understanding of: 🎯
   
   <p float="left" >
       <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" >
-        <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/hcj.png?raw=true" height="70" />
+        <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/hcj.png?raw=true" height="50" />
       </a>
     <a href="https://getbootstrap.com/" >
-      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/bootstrap.png?raw=true"  height="70" />
+      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/bootstrap.png?raw=true"  height="50" />
     </a>
     <a href="https://reactjs.org/" >
-      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/react.gif?raw=true"  height="92"  />
+      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/react.gif?raw=true"  height="50"  />
     </a>
     <a href="https://www.mongodb.com/" >
-      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/mongo.gif?raw=true"  height="70"  />
+      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/mongo.gif?raw=true"  height="50"  />
     </a>
     <a href="https://nodejs.org/en/" >
-      <img src="https://raw.githubusercontent.com/rohansharma06/rohansharma06/master/images/node.webp"  height="70"  />
+      <img src="https://raw.githubusercontent.com/rohansharma06/rohansharma06/master/images/node.webp"  height="50"  />
     </a>
     <a href="http://www.passportjs.org/" >
-      <img src="https://miro.medium.com/max/400/1*YI1tt4kGzvea-v4dAhZ90w.png"  height="70"  />
+      <img src="https://miro.medium.com/max/400/1*YI1tt4kGzvea-v4dAhZ90w.png"  height="50"  />
     </a>
   </p>
 
