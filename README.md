@@ -1,6 +1,9 @@
-### Hi there !\_&nbsp; 👋
+### \_Hi there ! &nbsp; 👋
 
-I am [Rohan](https://rohansharma06.github.io/rohanportfolio/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;. I ❤️ programing 👨‍💻 and creating awesome Web Application.
+> I am [Rohan Sharma](https://rohansharma06.github.io/rohanportfolio/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;.
+> I ❤️ programing and building awesome things for the web.
+
+<!-- > I ❤️ programing 👨‍💻 and creating awesome Web Application. -->
 
 I have **good** understanding of: 🎯
 
@@ -8,13 +11,13 @@ I have **good** understanding of: 🎯
 
 <p float="left">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" >
-    <img src="https://gifimage.net/wp-content/uploads/2017/10/c-gif-7.gif"  height="90" />
+    <img src="https://gifimage.net/wp-content/uploads/2017/10/c-gif-7.gif"  height="50" />
   </a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" >
-    <img src="https://2.bp.blogspot.com/-z3HC6lmULWs/VY04-cq47kI/AAAAAAAAAwQ/WH7RVNF_ZcA/s1600/f0ff536eb8244be3a825803e6f04f499.gif"  height="90" />
+    <img src="https://2.bp.blogspot.com/-z3HC6lmULWs/VY04-cq47kI/AAAAAAAAAwQ/WH7RVNF_ZcA/s1600/f0ff536eb8244be3a825803e6f04f499.gif"  height="50" />
   </a>
   <a href="https://go.java/?intcmp=gojava-banner-java-com" >
-    <img src="https://www.logigroup.ma/images/modules/technologies/dev/developpement_java_maroc.gif"  height="70" />
+    <img src="https://www.logigroup.ma/images/modules/technologies/dev/developpement_java_maroc.gif"  height="50" />
   </a>
  </p>
   
@@ -74,20 +77,11 @@ I have **good** understanding of: 🎯
   />
 </a>
 
-<a href="https://www.codechef.com/users/sharma_rohan">
+<a href="https://www.instagram.com/__.rohansharma/">
   <img
     align="left"
-    alt="Rohan Sharma | Codechef"
+    alt="Rohan Sharma | Instagram."
     width="26px"
-    src="https://janasabuj.github.io/cp-timeline-sabuj-jana/assets/img/cc.png"
-  />
-</a>
-
-<a href="https://leetcode.com/sharma_rohan/">
-  <img
-    align="left"
-    alt="Rohan Sharma | Leetcode"
-    width="26px"
-    src="https://repository-images.githubusercontent.com/135522239/b61abe80-7bd4-11e9-8db4-03c18a436041"
+    src="https://github.com/rohansharma06/rohansharma06/blob/master/images/Instagram.svg"
   />
 </a>
