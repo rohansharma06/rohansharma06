@@ -46,10 +46,6 @@ I have **good** understanding of: 🎯
     </a>
   </p>
 
-</br>
-
-<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rohansharma06&show_icons=true&hide_border=true) -->
-
 ### 📫 How to reach me?
 
 <a href="https://www.linkedin.com/in/rohan-sharmaa/">
@@ -87,6 +83,7 @@ I have **good** understanding of: 🎯
     src="https://github.com/rohansharma06/rohansharma06/blob/master/images/Instagram.svg"
   />
 </a>
+<br/>
 <br/>
 <br/>
 <details>
