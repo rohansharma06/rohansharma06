@@ -50,11 +50,6 @@ I have **good** understanding of: 🎯
 
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rohansharma06&show_icons=true&hide_border=true) -->
 
-<details>
-    <summary>⚡ Github Stats</summary>
-    <img align="left" alt="rohansharma06's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohansharma06&show_icons=true&hide_border=true&theme=radical" />
-</details>
-
 ### 📫 How to reach me?
 
 <a href="https://www.linkedin.com/in/rohan-sharmaa/">
@@ -92,3 +87,8 @@ I have **good** understanding of: 🎯
     src="https://github.com/rohansharma06/rohansharma06/blob/master/images/Instagram.svg"
   />
 </a>
+
+<details>
+    <summary>⚡ Github Stats</summary>
+    <img align="left" alt="rohansharma06's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohansharma06&show_icons=true&hide_border=true&theme=radical" />
+</details>
