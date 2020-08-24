@@ -48,7 +48,12 @@ I have **good** understanding of: 🎯
 
 </br>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rohansharma06&show_icons=true&hide_border=true)
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rohansharma06&show_icons=true&hide_border=true) -->
+
+<details>
+    <summary>⚡ Github Stats</summary>
+    <img align="left" alt="rohansharma06's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohansharma06&show_icons=true&hide_border=true&theme=radical" />
+</details>
 
 ### 📫 How to reach me?
 
