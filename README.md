@@ -54,7 +54,7 @@
     </a>
   </p>
 
-#### Databases
+#### Database
 
   <p float="left" >
     <a href="https://www.mysql.com/" >
