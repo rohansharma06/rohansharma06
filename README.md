@@ -2,7 +2,7 @@
 
 <!-- 👋 -->
 
-> I am [Rohan Sharma](https://rohansharma06.github.io/rohanportfolio/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;. <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/rocket.png" width="20px"> <br/>
+> I am [Rohan Sharma](https://rohansharma06.github.io/myportfolio/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;. <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/rocket.png" width="20px"> <br/>
 > I ❤️ **programing** 👨‍💻 and building awesome things for the **web** &nbsp;. <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/web.png" width="20px">
 
 <!-- > I ❤️ programing 👨‍💻 and creating awesome Web Application. -->
@@ -11,20 +11,21 @@ I have **good** understanding of: 🎯
 
 ### Programing Languages
 
-<p float="left">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" >
-    <img src="https://gifimage.net/wp-content/uploads/2017/10/c-gif-7.gif"  height="50" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" >
-    <img src="https://2.bp.blogspot.com/-z3HC6lmULWs/VY04-cq47kI/AAAAAAAAAwQ/WH7RVNF_ZcA/s1600/f0ff536eb8244be3a825803e6f04f499.gif"  height="50" />
-  </a>
-  <a href="https://go.java/?intcmp=gojava-banner-java-com" >
-    <img src="https://www.logigroup.ma/images/modules/technologies/dev/developpement_java_maroc.gif"  height="50" />
-  </a>
- </p>
-  
-  ### Web Technologies
-  
+  <p float="left">
+    <!-- <a href="https://en.wikipedia.org/wiki/C_(programming_language)" >
+      <img src="https://gifimage.net/wp-content/uploads/2017/10/c-gif-7.gif"  height="50" />
+    </a> -->
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B" >
+      <img src="https://2.bp.blogspot.com/-z3HC6lmULWs/VY04-cq47kI/AAAAAAAAAwQ/WH7RVNF_ZcA/s1600/f0ff536eb8244be3a825803e6f04f499.gif"  height="50" />
+    </a>
+
+    <a href="https://go.java/?intcmp=gojava-banner-java-com" >
+      <img src="https://www.logigroup.ma/images/modules/technologies/dev/developpement_java_maroc.gif"  height="50" />
+    </a>
+  </p>
+
+### FRAMEWORK AND LIBRARIES
+
   <p float="left" >
       <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" >
         <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/hcj.png?raw=true" height="50" />
@@ -43,6 +44,39 @@ I have **good** understanding of: 🎯
     </a>
     <a href="http://www.passportjs.org/" >
       <img src="https://miro.medium.com/max/400/1*YI1tt4kGzvea-v4dAhZ90w.png"  height="50"  />
+    </a>
+  </p>
+
+### Web Technologies
+  
+  <p float="left" >
+      <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" >
+        <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/hcj.png?raw=true" height="50" />
+      </a>
+    <a href="https://getbootstrap.com/" >
+      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/bootstrap.png?raw=true"  height="50" />
+    </a>
+    <a href="https://reactjs.org/" >
+      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/react.gif?raw=true"  height="50"  />
+    </a>
+  </p>
+
+### DATABASE
+
+  <p float="left" >
+    <a href="https://nodejs.org/en/" >
+      <img src="https://raw.githubusercontent.com/rohansharma06/rohansharma06/master/images/node.webp"  height="50"  />
+    </a>
+    <a href="https://www.mongodb.com/" >
+      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/mongo.gif?raw=true"  height="50"  />
+    </a>
+  </p>
+
+I am **familier** understanding of: 🎯
+
+  <p float="left" >
+    <a href="https://reactjs.org/" >
+      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/react.gif?raw=true"  height="50"  />
     </a>
   </p>
 
@@ -66,12 +100,12 @@ I have **good** understanding of: 🎯
   />
 </a>
 
-<a href="https://rohansharma06.github.io/rohanportfolio/">
+<a href="https://rohansharma06.github.io/myportfolio/">
   <img
     align="left"
     alt="Rohan Sharma | Portfolio"
     width="26px"
-    src="https://img.pngio.com/globe-internet-browser-web-website-global-svg-png-icon-free-web-browser-icon-png-980_980.png"
+    src="https://github.com/rohansharma06/rohansharma06/blob/master/images/web.png"
   />
 </a>
 
