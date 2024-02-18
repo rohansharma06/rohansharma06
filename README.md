@@ -17,7 +17,7 @@
     <a href="https://go.java/?intcmp=gojava-banner-java-com" >
       <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/java.png?raw=true"  height="50" />
     </a>
-    <p></p>
+    &nbsp;
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" >
       <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/cplus_language.png?raw=true"  height="50" />
     </a>
@@ -32,11 +32,11 @@
     <a href="https://spring.io/projects/spring-boot" >
       <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/spring-boot.png?raw=true" height="50" />
     </a>
-    <p></p>
+   &nbsp;
     <a href="https://redis.io/" >
       <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/redis.png?raw=true"  height="50" />
     </a>
-    <p></p>
+    &nbsp;
     <a href="https://activemq.apache.org/" >
       <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/activemq.png?raw=true"  height="50"  />
     </a>
