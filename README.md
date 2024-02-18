@@ -12,13 +12,12 @@ I have **good** understanding of: 🎯
 ### Programing Languages
 
   <p float="left">
-    <!-- <a href="https://en.wikipedia.org/wiki/C_(programming_language)" >
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" >
       <img src="https://gifimage.net/wp-content/uploads/2017/10/c-gif-7.gif"  height="50" />
-    </a> -->
+    </a>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" >
       <img src="https://2.bp.blogspot.com/-z3HC6lmULWs/VY04-cq47kI/AAAAAAAAAwQ/WH7RVNF_ZcA/s1600/f0ff536eb8244be3a825803e6f04f499.gif"  height="50" />
     </a>
-
     <a href="https://go.java/?intcmp=gojava-banner-java-com" >
       <img src="https://www.logigroup.ma/images/modules/technologies/dev/developpement_java_maroc.gif"  height="50" />
     </a>
@@ -27,23 +26,14 @@ I have **good** understanding of: 🎯
 ### FRAMEWORK AND LIBRARIES
 
   <p float="left" >
-      <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" >
-        <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/hcj.png?raw=true" height="50" />
+      <a href="https://spring.io/projects/spring-boot" >
+        <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/spring.png" height="50" />
       </a>
-    <a href="https://getbootstrap.com/" >
-      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/bootstrap.png?raw=true"  height="50" />
+    <a href="https://redis.io/" >
+      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/redis.gif"  height="50" />
     </a>
-    <a href="https://reactjs.org/" >
-      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/react.gif?raw=true"  height="50"  />
-    </a>
-    <a href="https://www.mongodb.com/" >
-      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/mongo.gif?raw=true"  height="50"  />
-    </a>
-    <a href="https://nodejs.org/en/" >
-      <img src="https://raw.githubusercontent.com/rohansharma06/rohansharma06/master/images/node.webp"  height="50"  />
-    </a>
-    <a href="http://www.passportjs.org/" >
-      <img src="https://miro.medium.com/max/400/1*YI1tt4kGzvea-v4dAhZ90w.png"  height="50"  />
+    <a href="https://activemq.apache.org/" >
+      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/activemq.png"  height="50"  />
     </a>
   </p>
 
@@ -56,23 +46,20 @@ I have **good** understanding of: 🎯
     <a href="https://getbootstrap.com/" >
       <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/bootstrap.png?raw=true"  height="50" />
     </a>
-    <a href="https://reactjs.org/" >
-      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/react.gif?raw=true"  height="50"  />
-    </a>
   </p>
 
 ### DATABASE
 
   <p float="left" >
-    <a href="https://nodejs.org/en/" >
-      <img src="https://raw.githubusercontent.com/rohansharma06/rohansharma06/master/images/node.webp"  height="50"  />
+    <a href="https://www.mysql.com/" >
+      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/mysql.png"  height="50"  />
     </a>
     <a href="https://www.mongodb.com/" >
       <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/mongo.gif?raw=true"  height="50"  />
     </a>
   </p>
 
-I am **familier** understanding of: 🎯
+I am also **familier** with: 🎯
 
   <p float="left" >
     <a href="https://reactjs.org/" >
@@ -124,3 +111,26 @@ I am **familier** understanding of: 🎯
     <summary>⚡ Github Stats</summary>
     <img align="left" alt="rohansharma06's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohansharma06&show_icons=true&hide_border=true&theme=radical" />
 </details>
+
+
+
+<!-- <p float="left" >
+      <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" >
+        <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/hcj.png?raw=true" height="50" />
+      </a>
+    <a href="https://getbootstrap.com/" >
+      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/bootstrap.png?raw=true"  height="50" />
+    </a>
+    <a href="https://reactjs.org/" >
+      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/react.gif?raw=true"  height="50"  />
+    </a>
+    <a href="https://www.mongodb.com/" >
+      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/mongo.gif?raw=true"  height="50"  />
+    </a>
+    <a href="https://nodejs.org/en/" >
+      <img src="https://raw.githubusercontent.com/rohansharma06/rohansharma06/master/images/node.webp"  height="50"  />
+    </a>
+    <a href="http://www.passportjs.org/" >
+      <img src="https://miro.medium.com/max/400/1*YI1tt4kGzvea-v4dAhZ90w.png"  height="50"  />
+    </a>
+  </p> -->
