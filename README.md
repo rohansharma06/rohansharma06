@@ -17,23 +17,26 @@
     <a href="https://go.java/?intcmp=gojava-banner-java-com" >
       <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/java.png?raw=true"  height="50" />
     </a>
+    <p></p>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" >
       <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/cplus_language.png?raw=true"  height="50" />
     </a>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" >
+    <!-- <a href="https://en.wikipedia.org/wiki/C_(programming_language)" >
       <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/c_language.png?raw=true"  height="50" />
-    </a>
+    </a> -->
   </p>
 
 #### Framework and Libraries
 
   <p float="left" >
-      <a href="https://spring.io/projects/spring-boot" >
-        <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/spring-boot.png?raw=true" height="50" />
-      </a>
+    <a href="https://spring.io/projects/spring-boot" >
+      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/spring-boot.png?raw=true" height="50" />
+    </a>
+    <p></p>
     <a href="https://redis.io/" >
       <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/redis.png?raw=true"  height="50" />
     </a>
+    <p></p>
     <a href="https://activemq.apache.org/" >
       <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/activemq.png?raw=true"  height="50"  />
     </a>
@@ -42,9 +45,10 @@
 #### Web Technologies
   
   <p float="left" >
-      <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" >
-        <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/hcj.png?raw=true" height="50" />
-      </a>
+    <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" >
+      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/hcj.png?raw=true" height="50" />
+    </a>
+    <p></p>
     <a href="https://getbootstrap.com/" >
       <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/bootstrap.png?raw=true"  height="50" />
     </a>
@@ -56,20 +60,21 @@
     <a href="https://www.mysql.com/" >
       <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/mysql.png"  height="50"  />
     </a>
+    <p></p>
     <a href="https://www.mongodb.com/" >
-      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/mongo.gif?raw=true"  height="50"  />
+      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/mongodb.png?raw=true"  height="50"  />
     </a>
   </p>
 
 <br/>
 
-### I am also **familier** with: 🎯
+### I am also **familiar** with: 🎯
 
   <p float="left" >
     <a href="https://reactjs.org/" >
       <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/react.gif?raw=true"  height="50"  />
     </a>
-    <a href="https://reactjs.org/" >
+    <a href="https://www.php.net/" >
       <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/php.png?raw=true"  height="50"  />
     </a>
   </p>
