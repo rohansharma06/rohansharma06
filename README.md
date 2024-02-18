@@ -8,7 +8,6 @@
 <!-- > I ❤️ programing 👨‍💻 and creating awesome Web Application. -->
 
 <br/>
-<br/>
 
 ### I have **good** understanding of: 🎯
 
@@ -16,13 +15,13 @@
 
   <p float="left">
     <a href="https://go.java/?intcmp=gojava-banner-java-com" >
-      <img src="https://www.logigroup.ma/images/modules/technologies/dev/developpement_java_maroc.gif"  height="50" />
-    </a>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" >
-      <img src="https://gifimage.net/wp-content/uploads/2017/10/c-gif-7.gif"  height="50" />
+      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/java.png?raw=true"  height="50" />
     </a>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" >
-      <img src="https://2.bp.blogspot.com/-z3HC6lmULWs/VY04-cq47kI/AAAAAAAAAwQ/WH7RVNF_ZcA/s1600/f0ff536eb8244be3a825803e6f04f499.gif"  height="50" />
+      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/cplus_language.png?raw=true"  height="50" />
+    </a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" >
+      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/c_language.png?raw=true"  height="50" />
     </a>
   </p>
 
@@ -30,10 +29,10 @@
 
   <p float="left" >
       <a href="https://spring.io/projects/spring-boot" >
-        <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/spring.png?raw=true" height="50" />
+        <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/spring-boot.png?raw=true" height="50" />
       </a>
     <a href="https://redis.io/" >
-      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/redis.gif?raw=true"  height="50" />
+      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/redis.png?raw=true"  height="50" />
     </a>
     <a href="https://activemq.apache.org/" >
       <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/activemq.png?raw=true"  height="50"  />
@@ -63,13 +62,15 @@
   </p>
 
 <br/>
-<br/>
 
 ### I am also **familier** with: 🎯
 
   <p float="left" >
     <a href="https://reactjs.org/" >
       <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/react.gif?raw=true"  height="50"  />
+    </a>
+    <a href="https://reactjs.org/" >
+      <img src="https://github.com/rohansharma06/rohansharma06/blob/master/images/php.png?raw=true"  height="50"  />
     </a>
   </p>
 
