@@ -120,10 +120,10 @@
 <br/>
 <br/>
 <br/>
-<details>
+<!-- <details>
     <summary>⚡ Github Stats</summary>
     <img align="left" alt="rohansharma06's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohansharma06&show_icons=true&hide_border=true&theme=radical" />
-</details>
+</details> -->
 
 
 
